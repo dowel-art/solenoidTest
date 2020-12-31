@@ -1,3 +1,9 @@
+/*
+   Dowel
+   ソレノイド　テスト用プログラム
+   20.12.31 Thu.
+*/
+
 #include "define.h"
 
 void setup() {
